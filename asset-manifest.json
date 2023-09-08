@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spiss_zadan/static/css/main.db5915f1.css",
+    "main.js": "/spiss_zadan/static/js/main.a7b95619.js",
+    "static/js/787.177e23c2.chunk.js": "/spiss_zadan/static/js/787.177e23c2.chunk.js",
+    "index.html": "/spiss_zadan/index.html",
+    "main.db5915f1.css.map": "/spiss_zadan/static/css/main.db5915f1.css.map",
+    "main.a7b95619.js.map": "/spiss_zadan/static/js/main.a7b95619.js.map",
+    "787.177e23c2.chunk.js.map": "/spiss_zadan/static/js/787.177e23c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db5915f1.css",
+    "static/js/main.a7b95619.js"
+  ]
+}
