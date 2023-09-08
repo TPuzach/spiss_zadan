@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  monospace;
+}
+.delete-button {
+  background-color: #ff0000;
+  color: #ffffff;
+  border: none;
+  border-radius: 50%;
+  padding: 6px 11px;
+  cursor: pointer;
+  font-family: monospace;
+}
+.done-button{
+  background-color: green;
+  color: #ffffff;
+  border: none;
+  border-radius: 50%;
+  padding: 5px 10px;
+  cursor: pointer;
+  font-family: monospace;
+}
+
+.save-button {
+  background-color: royalblue;
+  color: white;
+  border-radius:10%;
+  border: none;
+  padding: 5px 10px;
+  margin-left: 10px;
+  font-family: monospace;
+  cursor: pointer;
+}
+.completed-task {
+  color: rgba(11, 185, 11, 0.94);
+}
+
+.uncompleted-task {
+  color: black;
+}
